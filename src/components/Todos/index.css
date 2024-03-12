@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.container {
+  background-color: #404040;
+  height: 100vh;
+  width: 100%;
+  color: white;
+  margin-top: 0px;
+}
+.input-el {
+  height: 50px;
+  width: 400px;
+  margin-left: 20px;
+  font-size: 20px;
+  border-radius: 8px;
+}
+.btn {
+  height: 40px;
+  width: 100px;
+  background-color: #4775d1;
+  color: white;
+  margin-left: 20px;
+  border-radius: 8px;
+  margin-top: 10px;
+  cursor: pointer;
+}
+.heading {
+  text-align: center;
+}
